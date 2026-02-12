@@ -59,8 +59,3 @@ The system uses a **simple state machine** to manage behavior:
 ## Project Image
 
 ![IMG_3545](https://github.com/user-attachments/assets/1e54deff-533c-4a58-a3de-07c3e664db6b)
-
-
-
-Store images inside an `images/` folder in your repository:
-
